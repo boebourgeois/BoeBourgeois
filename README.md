@@ -19,9 +19,8 @@
 [<img align="left" alt="BoeBourgeois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[indeed]:  (https://profile.indeed.com/p/boeb-km63d4p)
+
+[indeed]: https://profile.indeed.com/p/boeb-km63d4p
 [linkedin]: www.linkedin.com/in/boe-bourgeois-0a6280242
 
 
