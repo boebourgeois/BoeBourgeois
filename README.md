@@ -1,15 +1,18 @@
-<h1>Hi, I'm Boe, Bourgeois! 
+<h1>Hi, I'm Boe Bourgeois! 
   
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
+  - [haking wifi with dron and raspbarry pi4]()
+  - []
+  - []
+  - []
+  - []
 
 <h2>👨‍💻 python projects</h2>
-- [Magic the gathering discord bot that using API and database to monitor price changes in selected cards.](http://github
-
-
+ - [Magic the gathering discord bot that using API and database to monitor price changes in selected cards]()
+- [New Python Project]()
 
 <h2>  Connect with me:</h2>
 
