@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-  - [haking wifi with dron and raspbarry pi4](https://github.com/boebourgeois/wifi-hack-with-drone-raspberry-pi)
+  - [hacking wifi with drone and raspberry pi4](https://github.com/boebourgeois/wifi-hack-with-drone-raspberry-pi)
   - []()
   - []()
   - []()
@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 python projects</h2>
 
- - [Magic the gathering discord bot that using API and database to monitor price changes in selected cards](https://github.com/boebourgeois/magic-the-gathering-price-and-card-lookup-with-database-)
+ - [Magic the gathering discord bot that uses API and database to monitor price changes in selected cards](https://github.com/boebourgeois/magic-the-gathering-price-and-card-lookup-with-database-)
  - []()
  - []()
  - []()
