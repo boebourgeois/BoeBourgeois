@@ -3,7 +3,6 @@
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python]()
   - [haking wifi with dron and raspbarry pi4]()
   - []()
   - []()
