@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 python projects</h2>
 
- - [Magic the gathering discord bot that using API and database to monitor price changes in selected cards]()
+ - [Magic the gathering discord bot that using API and database to monitor price changes in selected cards](https://github.com/boebourgeois/magic-the-gathering-price-and-card-lookup-with-database-)
  - []()
  - []()
  - []()
