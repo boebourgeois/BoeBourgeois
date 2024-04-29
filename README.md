@@ -20,13 +20,13 @@
 
 
 
-[<img align="left" alt="BoeBourgeois | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][indeed]
-[<img align="left" alt="BoeBourgeois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BoeBourgeois | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />](https://profile.indeed.com/p/boeb-km63d4p)
+[<img align="left" alt="BoeBourgeois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/boe-bourgeois-0a6280242)
 
 
 
-[indeed]: https://profile.indeed.com/p/boeb-km63d4p
-[linkedin]: www.linkedin.com/in/boe-bourgeois-0a6280242
+
+
 
 
 <!--
